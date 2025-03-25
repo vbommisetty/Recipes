@@ -79,11 +79,6 @@ For more details, refer to the **Works Cited** section in our [full write-up](./
 
 ---
 
-## 🎥 Project Video Explanation
-🔗 **[Watch our project explanation video here!](YOUR_VIDEO_LINK_HERE)**
-
----
-
 ## 📌 Conclusion
 Our final model successfully predicted **user-recipe interactions with 79% accuracy**, showing that:
 - **Popularity is a strong predictor** of interaction likelihood.
@@ -99,6 +94,5 @@ Our final model successfully predicted **user-recipe interactions with 79% accur
 ## 📜 Acknowledgments
 This project was completed for **CSE 158 (Fall 2024)**. Special thanks to **Professor McAuley** for guidance and resources.
 
-📢 **Developed by:** Julian & Team  
 📅 **Submission Date:** December 3, 2024  
 📄 **Full Report:** [Assignment_2_Write_Up.pdf](./Assignment_2_Write_Up.pdf)
