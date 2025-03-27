@@ -95,4 +95,3 @@ Our final model successfully predicted **user-recipe interactions with 79% accur
 This project was completed for **CSE 158 (Fall 2024)**. Special thanks to **Professor McAuley** for guidance and resources.
 
 📅 **Submission Date:** December 3, 2024  
-📄 **Full Report:** [Assignment_2_Write_Up.pdf](./Assignment_2_Write_Up.pdf)
